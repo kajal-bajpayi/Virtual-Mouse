@@ -7,3 +7,8 @@ usually be operated with multiple input devices, which may include an
 actual mouse or a computer keyboard. Virtual mouse which uses web
 camera works with the help of different image processing techniques.
 
+## Libraries Used 
+1. OpenCV
+2. Mediapipe
+3. PyAutoGUI 
+
